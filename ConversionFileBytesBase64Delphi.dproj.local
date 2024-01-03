@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/22 18:13:35.000.368,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/10 11:13:08.000.028,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 15:26:50.000.392,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 18:11:00.000.085,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/11 15:36:59.000.675,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/03 14:39:58.000.546,=C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/01/03 14:40:21.000.997,C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64\uPrincipal.pas</Transaction>
+    <Transaction>2024/01/03 14:40:21.000.997,C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64\uPrincipal.dfm</Transaction>
+    <Transaction>2024/01/03 14:40:32.000.237,C:\Users\ncent\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64\ConversionFileBytesBase64.dproj</Transaction>
+    <Transaction>2024/01/03 15:14:28.452,C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64Delphi\ConversionFileBytesBase64Delphi.dproj=C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64Delphi\ConversionFileBytesBase64.dproj</Transaction>
+    <Transaction>2024/01/03 15:17:42.245,C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64Delphi\uPrincipal.pas=</Transaction>
+    <Transaction>2024/01/03 15:17:53.153,=C:\geiewin\SubProjetos\Curso\Git\ConversionFileBytesBase64Delphi\view\uPrincipal.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
